@@ -66,11 +66,15 @@ bool MnistApi::Infer()
     if (!context)
         return false;
 
+    // TODO
+
     return true;
 }
 
 bool MnistApi::CleanUp()
 {
+    // TODO
+
     return true;
 }
 
